@@ -128,7 +128,7 @@ Let's walk though those steps:
 Now, let's add one more feature!
 
 ## Deliverables Part 2
-
+n
 - When either `Child` component is clicked, it should change its own background
   color to a random color, and the other `Child` component should change to
   _that same_ color.
